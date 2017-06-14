@@ -36,14 +36,19 @@ article p{
   
 }
 
-h2{
-    text-align: center;
-    font-size: 3em;
-}
-
 footer{
     text-align: center;
     margin-top: 2em;
     font-size: .7em;
 }
-
+#memes{
+    margin: auto;
+    margin-bottom: 1em;
+    text-align: center;
+    background-color: violet;
+    border: solid white;
+    border-radius: 100%;
+    font-family: 'Tangerine',serif;
+    font-size: 4em;
+    width: 50%;
+}
