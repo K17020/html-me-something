@@ -4,12 +4,14 @@ body {
 header{
     background-color: #FFE4AC;
     border: solid white;
-    border-radius: 50%;
-    margin: 2%;
-    font-size:
+    border-radius: 100%;
+    margin: auto;
+    margin-bottom: 2em;   
+    width: 50%;
 }
 header h1{
-    font-size: 3em;
+    font-size: 5em;
+    font-family: 'Tangerine',serif;
     text-align: center;
 }
 img {   
@@ -20,11 +22,18 @@ img {
     border: solid white;
 }
 
-p{
-    margin: 5%;
+article{
+    background-color: #FFE9F0;
+    border: solid white;
+    border-radius: 1em;
+    margin: 2%;
+}
+article p{
+    margin: 1%;
     text-align: center;
-    font-size: 3em;
+    font-size: 3.5em;
     font-family: 'Tangerine', serif;
+  
 }
 
 h2{
@@ -35,4 +44,6 @@ h2{
 footer{
     text-align: center;
     margin-top: 2em;
+    font-size: .7em;
 }
+
